@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Samuel Apoya
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me through sapoya26@colby.edu
 
 <!---
