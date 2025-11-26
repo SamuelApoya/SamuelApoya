@@ -1,4 +1,4 @@
-- 📫 How to reach me through sapoya26@colby.edu
+- 📫 How to reach me: sapoya26@colby.edu
 
 <!---
 SamuelApoya/SamuelApoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
